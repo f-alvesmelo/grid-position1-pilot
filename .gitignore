@@ -1,0 +1,22 @@
+# Obsidian
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/.trash
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+*.swp
+*~
+
+# Installers / large binaries accidentally dropped into the vault
+*.exe
+*.dmg
+*.msi
+
+# Local scratch / temp
+*.tmp
+~$*

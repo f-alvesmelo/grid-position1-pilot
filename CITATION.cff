@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Citation details below are placeholders. Please fill in your name, affiliation, and preferred citation title before publishing or sharing this repository."
+title: "GRID Position 1 Research Pilot: Multilevel Political Alignment and Government Responses to Internal Displacement"
+type: dataset
+authors:
+  - family-names: "[FAMILY NAME — TO FILL IN]"
+    given-names: "[GIVEN NAME — TO FILL IN]"
+    affiliation: "[AFFILIATION — TO FILL IN, e.g. GRID project, University of Amsterdam]"
+date-released: "2026-09-27"
+license-url: ""
+repository: ""
+keywords:
+  - internal displacement
+  - political alignment
+  - government response
+  - protection and repression
+  - comparative politics
+  - GRID
